@@ -17,7 +17,7 @@ from subnet.ms_ssim_torch import ms_ssim
 from augmentation import random_flip, random_crop_and_pad_image_and_labels
 from pdb import set_trace as pause
 
-ROOT="/home/lazye/Documents/ica/under-sea/models/PyTorchVideoCompression/DVC"
+ROOT="/home/lazye/Documents/ica/under-sea/models/ptvc/DVC"
 class UVGDataSet(data.Dataset):
     def __init__(self, root=ROOT+"/data/uts/images/", filelist=ROOT+"/data/uts/originalv.txt", refdir='L12000', testfull=False):
         with open(filelist) as f:
