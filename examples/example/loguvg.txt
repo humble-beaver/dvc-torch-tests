@@ -1,0 +1,80 @@
+2024-01-11 12:28:39,475 - INFO] DVC training
+2024-01-11 12:28:39,475 - INFO] config : 
+2024-01-11 12:28:39,475 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2024-01-11 12:29:14,058 - INFO] DVC training
+2024-01-11 12:29:14,058 - INFO] config : 
+2024-01-11 12:29:14,058 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2024-01-11 12:33:35,729 - INFO] DVC training
+2024-01-11 12:33:35,729 - INFO] config : 
+2024-01-11 12:33:35,730 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2024-01-11 15:32:56,189 - INFO] DVC training
+2024-01-11 15:32:56,190 - INFO] config : 
+2024-01-11 15:32:56,191 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2024-01-11 15:33:13,343 - INFO] DVC training
+2024-01-11 15:33:13,343 - INFO] config : 
+2024-01-11 15:33:13,343 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2024-01-11 15:33:49,370 - INFO] DVC training
+2024-01-11 15:33:49,370 - INFO] config : 
+2024-01-11 15:33:49,370 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2024-01-11 15:33:51,969 - INFO] global step 0 : 
+
